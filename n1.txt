@@ -3,3 +3,4 @@ LINE 2
 I am L3 from Git2
 I am L3 from Git (modified to L4)
 +1
++2
